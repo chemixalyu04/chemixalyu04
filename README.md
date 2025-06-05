@@ -1,6 +1,6 @@
-<p align="center">
+<h2 align="center">
 ## ♢ ABOUT ME ♢
-</p>
+</h2>
 
 ![alt text](banner.png)
 
