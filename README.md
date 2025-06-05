@@ -1,3 +1,4 @@
+_Last updated: 6/5/2025_
 <h2 align="center">
 ♢ ABOUT ME ♢
 </h2>
