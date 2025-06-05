@@ -1,8 +1,10 @@
 <h2 align="center">
 ♢ ABOUT ME ♢
 </h2>
-_Last updated: 6/5/2025_
+
 ![alt text](banner.png)
+
+_Last updated: 6/5/2025_
 
 constucting...
 <!--
