@@ -9,7 +9,13 @@ _Last updated: 6/5/2025_
 constucting... contents.
 
 - aggressively learning new stuffs
-- college | member of JPCS | Junior Philippine Computer Society 2025 - now
+- college student | member of JPCS | Junior Philippine Computer Society 2025 - now
+- open source
+- btw, i use arch
+
+# What I'm up to rn
+
+- 
 <!--
 **chemixalyu04/chemixalyu04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
