@@ -1,4 +1,5 @@
 ## ♢ ABOUT ME ♢
+![alt text](banner.png)
 
 constucting...
 <!--
