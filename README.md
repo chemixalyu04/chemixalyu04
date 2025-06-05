@@ -13,9 +13,15 @@ constucting... contents.
 - open source
 - btw, i use arch
 
-# What I'm up to rn
+## Technologies & Toolsz XD
 
-- 
+## What I'm up to rn
+
+## Blog & Writing
+
+## Github Stats
+
+## Dummies
 <!--
 **chemixalyu04/chemixalyu04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
