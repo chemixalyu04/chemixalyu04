@@ -1,5 +1,5 @@
 <h2 align="center">
-## ♢ ABOUT ME ♢
+♢ ABOUT ME ♢
 </h2>
 
 ![alt text](banner.png)
