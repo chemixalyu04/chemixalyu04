@@ -1,4 +1,4 @@
-<center> ## ♢ ABOUT ME ♢ </center>
+<center> ## ♢ ABOUT ME ♢
 
 
 ![alt text](banner.png)
