@@ -1,4 +1,4 @@
-## ♢ ABOUT ME ♢
+<center> ## ♢ ABOUT ME ♢ </center>
 ![alt text](banner.png)
 
 constucting...
