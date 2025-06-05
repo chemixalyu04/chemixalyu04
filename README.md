@@ -19,7 +19,7 @@ constucting... contents.
 ## What I'm up to rn
 
 ## Blog & Writing
-[medium](https://medium.com/@chemixalyu04)
+[medium](https://medium.com/@chemixalyu04) | [dev-blog]
 
 ## Github Stats
 
