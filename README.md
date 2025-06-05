@@ -9,7 +9,8 @@ _Last updated: 6/5/2025_
 constucting... contents.
 
 - aggressively learning new stuffs
-- college student | member of JPCS | Junior Philippine Computer Society 2025 - now
+- college student | member of JPCS Santiago - Junior Philippine Computer Society 2025 - now
+- major in
 - open source
 - btw, i use arch
 
@@ -18,6 +19,7 @@ constucting... contents.
 ## What I'm up to rn
 
 ## Blog & Writing
+[medium](https://medium.com/@chemixalyu04)
 
 ## Github Stats
 
