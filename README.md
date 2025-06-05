@@ -1,5 +1,5 @@
 ## ♢ ABOUT ME ♢
-![alt text]()
+![alt text](banner.png)
 
 constucting...
 <!--
