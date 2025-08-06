@@ -46,8 +46,6 @@ constucting... contents.
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chemixalyu04&theme=default&show_icons=true&hide_border=true&layout=compact" alt="chemixalyu04's GitHub Stats"/>
 
-<img src="https://streak-stats.demolab.com?user=chemixalyu04&theme=default&hide_border=true" alt="chemixalyu04's GitHub Stats"/>
-
 [![trophy](https://github-profile-trophy.vercel.app/?username=chemixalyu04)](https://github.com/ryo-ma/github-profile-trophy)
 ## Dummies
 
