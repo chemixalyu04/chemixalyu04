@@ -41,7 +41,8 @@ constucting... contents.
 [medium](https://medium.com/@chemixalyu04) • [dev-blog]
 
 ## Github Stats
-
+![chemixalyu04's Streak](https://github-readme-streak-stats.herokuapp.com/?user=chemixalyu04&theme=vue-dark&hide_border=true)
+[![trophy](https://github-profile-trophy.vercel.app/?username=chemixalyu04)](https://github.com/ryo-ma/github-profile-trophy)
 ## Dummies
 -   😎 Fun fact: talk about video games, animation, webnovels, DC, and manhwa/manga.
     
