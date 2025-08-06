@@ -42,7 +42,7 @@ constucting... contents.
 
 ## Github Stats
 
-[![chemixalyu04's Streak](https://github-readme-streak-stats.herokuapp.com/?user=chemixalyu04&theme=vue-dark&hide_border=true)]
+<img src="https://github-readme-stats.vercel.app/api?username=chemixalyu04&theme=default&show_icons=true&hide_border=true&count_private=true" alt="chemixalyu04's GitHub Stats" />
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=chemixalyu04)](https://github.com/ryo-ma/github-profile-trophy)
 ## Dummies
