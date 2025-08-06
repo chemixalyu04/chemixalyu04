@@ -10,13 +10,32 @@ _Last updated: 8/6/2025_
 
 constucting... contents.
 
-- aggressively learning new stuffs • college student • member of JPCS Santiago - Junior Philippine Computer Society 2025 - now • majoring in IT
-- open source
-- btw, i use arch
-
+- 🎓 College student majoring in **Information Technology**
+- 🚀 Aggressively learning new tech and coding skills
+- 💻 Proud Arch Linux user
+- 🌟 Member of **JPCS Santiago - Junior Philippine Computer Society** (2025 - present)
+- 🌐 Passionate about **open-source** projects and building cool stuff. I like exploring hardwares too.
+- 📍 Check out my personal website for more about me!
+- 📫 Reach me at angellie.marcos0104@protonmail.me or LinkedIn
 ## Technologies & Toolsz XD
-
+-   **Languages**: Python, JavaScript, Java, C++
+    
+-   **Tools**: Git, VS Code, Arch Linux, Docker
+    
+-   **Frameworks**: Flask, React (learning)
+    
+-   **Databases**: MySQL, SQLite (exploring Oracle from coursework)
+- 
 ## What I'm up to rn
+-   🔨 Working on a **Python-based CLI tool** for automating tasks (repo)
+    
+-   📚 Studying **database management** (Oracle, MySQL) for my IT coursework
+    
+-   🌱 Learning **React** to build interactive web apps
+    
+-   🤝 Contributing to open-source projects and JPCS Santiago events
+    
+-   💡 Exploring **web development** for my personal website
 
 ## Blog & Writing
 [medium](https://medium.com/@chemixalyu04) • [dev-blog]
@@ -24,16 +43,8 @@ constucting... contents.
 ## Github Stats
 
 ## Dummies
-<!--
-**chemixalyu04/chemixalyu04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+-   😎 Fun fact: talk about video games, animation, webnovels, DC, and manhwa/manga.
+    
+  -   💭 Quote: _“Code is poetry, and I’m still learning the rhymes.”_
+    
+-   🛠️ Dream project: Building an open-source tool that could benefit both of us. 
