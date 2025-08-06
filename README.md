@@ -4,8 +4,8 @@
 
 ![alt text](banner.png)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hello%2C+World;Ange+of+the+Tech+Demons%2C+here.)](https://git.io/typing-svg)
-_Last updated: 6/5/2025_
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&duration=1000&pause=500&center=true&vCenter=true&width=435&lines=%F0%9F%91%8B+Hi!+I'm+Angie+%F0%9F%9A%80;%F0%96%A5%94+%DD%81+%CB%96+enjoy+your+stay+here+%F0%96%A5%94+%DD%81+%CB%96)](https://git.io/typing-svg)
+_Last updated: 8/6/2025_
 
 constucting... contents.
 
